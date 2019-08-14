@@ -22,7 +22,7 @@ $ mpirun -np 4 mm.out
 
 ## Authors
 
-* **Everton Barbosa Jr** - *Initial Work* - [ejkun](https://github.com/ejkun)
+* **Everton Barbosa Jr** - [ejkun](https://github.com/ejkun)
 
 ## License
 
